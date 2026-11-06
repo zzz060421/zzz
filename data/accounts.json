@@ -1,1 +1,33 @@
-{"锦文":{"name":"锦文","seed":472116087,"best":40,"unlocked":2,"done":[0],"extUnlocked":false,"extDone":[]}}
+{
+    "锦文":  {
+               "name":  "锦文",
+               "seed":  472116087,
+               "best":  40,
+               "unlocked":  2,
+               "done":  [
+                            0
+                        ],
+               "extUnlocked":  false,
+               "extDone":  [
+
+                           ]
+           },
+    "测试号":  {
+                "done":  [
+                             0,
+                             1,
+                             2,
+                             3,
+                             4,
+                             5
+                         ],
+                "name":  "测试号",
+                "extUnlocked":  true,
+                "best":  999,
+                "unlocked":  6,
+                "seed":  999,
+                "extDone":  [
+                                0
+                            ]
+            }
+}
