@@ -1,0 +1,12 @@
+{
+  "name": "engineers-quest",
+  "version": "1.0.0",
+  "description": "匠心试炼 · 工科闯关冒险（联网版）",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
